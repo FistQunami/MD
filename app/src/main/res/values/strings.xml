@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarvelHeroesApp</string>
+    <string name="marvel_logo">Marvel Logo</string>
+    <string name="choose_your_hero">Choose your hero</string>
+    <string name="hero_image">Image of %1$s</string>
+    <string name="title">Choose your hero</string>
+</resources>
